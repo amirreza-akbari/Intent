@@ -24,13 +24,4 @@ A simple yet elegant **Android application** built with **Java** and **XML** tha
 
 ---
 
-## 📷 Screenshots
-
-| Input Page | Display Page |
-|------------|--------------|
-| *(Add Screenshot Here)* | *(Add Screenshot Here)* |
-
----
-
-## 📁 Project Structure
 
