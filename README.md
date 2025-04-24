@@ -1,39 +1,36 @@
-# 🎓 Testing Software Android App
+# ✨ Android Score Viewer App
 
-A fully-featured **Android application** developed in Java, designed for **students and software enthusiasts** to test their knowledge in computer science and software engineering. The app includes **user registration**, a **quiz section with a timer**, and a **results display** — all in a sleek and responsive UI.
-
----
-
-## ✨ Features
-
-- 🚀 **Splash Screen** with animated logo
-- 🔐 **User Registration** with name, surname, and **unique email validation**
-- ❓ **Quiz Module** with 10 software-related questions
-- ⏱️ **120-second timer** during the quiz
-- 📊 **Automatic score calculation**
-- 💾 **MySQL database integration** using PHP
-- ✅ **Passing/failing result system** based on score
-- 🌐 **Persian (Farsi) interface** for native users
+A simple yet elegant **Android application** built with **Java** and **XML** that collects a user's **first name**, **last name**, and **score**, then displays the data beautifully on the next screen.
 
 ---
 
-## 📱 Screenshots
+## 📲 Features
 
-| Splash Screen | Registration | Quiz | Result |
-|---------------|--------------|------|--------|
-| ![splash](assets/splash.png) | ![register](assets/register.png) | ![quiz](assets/quiz.png) | ![result](assets/result.png) |
+- 🧍 Takes user **Name**, **Surname**, and **Score**
+- 📄 Displays user data on the next screen
+- 🎨 Beautiful modern UI with **Material Design**
+- 🌐 Fully supports **Persian** or **English** input
+- 💡 Perfect for learning multi-screen Android apps
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Java** (Android)
-- **XML** (Layout design)
-- **PHP** (Backend)
-- **MySQL** (Database)
-- **Android Studio** IDE
+| Tech | Description |
+|------|-------------|
+| ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white) | Core Android logic |
+| ![XML](https://img.shields.io/badge/Layout-XML-orange?logo=android&logoColor=white) | UI Design |
+| ![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-green?logo=androidstudio&logoColor=white) | Development Environment |
 
 ---
 
-## 🔗 Project Structure
+## 📷 Screenshots
+
+| Input Page | Display Page |
+|------------|--------------|
+| *(Add Screenshot Here)* | *(Add Screenshot Here)* |
+
+---
+
+## 📁 Project Structure
 
